@@ -23,3 +23,36 @@ The projects demonstrate practical skills in data cleaning, exploration, visuali
 - **Jupyter Notebook**
 
 ---
+
+## 📂 Repository Structure
+
+---
+
+## 📈 Projects
+Each project includes:
+- Problem definition  
+- Dataset description  
+- Data cleaning & preprocessing steps  
+- Exploratory analysis  
+- Visualizations  
+- Key insights and conclusions  
+
+> 📌 Projects are continuously added and improved.
+
+---
+
+## 🎯 Objective
+The goal of this repository is to:
+- Build a strong **data analysis portfolio**
+- Apply theoretical knowledge to **real-world datasets**
+- Develop a **business-oriented analytical mindset**
+
+---
+
+## 🚀 Future Improvements
+- Add more real-world datasets  
+- Create interactive dashboards  
+- Apply basic machine learning models  
+- Improve storytelling and presentation of insights  
+
+---
